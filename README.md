@@ -1,16 +1,17 @@
-## Hi there 👋
+🍒 Boas vindas ao meu perfil 🍒
 
-<!--
-**giopecmm/giopecmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ☆Meu nome é **Giovana Vesosloki**
 
-Here are some ideas to get you started:
+ ☆Estou estudando na Alura 
+ 
+ ☆Estou me desenvolvendo na linguagem JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ☆Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+ ☆Você pode entrar em contato comigo 📫
+
+vesoloski.giovana@escola.pr.gov.br
+
+![![7d03550dfc3b7dfdd2348f005963f0f5](https://github.com/giopecmm/giopecmm/assets/173164823/f6c8ed9c-af6e-4e10-9916-31ec08b9c902)
+
+](link)
